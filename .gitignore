@@ -14,7 +14,7 @@ bin-release/
 *.ipa
 *.apk
 .idea
-algorithms.iml
+*.iml
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
